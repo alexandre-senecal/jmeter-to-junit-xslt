@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="1" it="0" lt="0" ct="0" ts="1734725131912" s="true" lb="Test 1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="251" sby="0" ng="1" na="1"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1734725131913" s="true" lb="Test 2" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="251" sby="0" ng="1" na="1"/>
+
+</testResults>
